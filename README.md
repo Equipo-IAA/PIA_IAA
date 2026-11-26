@@ -29,14 +29,9 @@ El modelo Random Forest obtuvo los siguientes resultados promedio en diez experi
 
 | Métrica   | Resultado |
 |-----------|-----------|
-| Luis Fernando Velazquez Moreno 
-  |2096588  |
-| Andres Castro Hernandez 
- | 2069855   |
-| Adrian Alejandro Briseño Gonzalez 
-    | 2073871  |
-| Jesus Salvador Rodriguez Rodriguez 
-  | 2103869   |
-| Angel Joseph Meraz Hernandez 
-   | 2067151   |
+| Luis Fernando Velazquez Moreno | 2096588  |
+| Andres Castro Hernandez | 2069855   |
+| Adrian Alejandro Briseño Gonzalez | 2073871  |
+| Jesus Salvador Rodriguez Rodriguez | 2103869   |
+| Angel Joseph Meraz Hernandez | 2067151   |
 
