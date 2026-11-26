@@ -24,3 +24,19 @@ El modelo Random Forest obtuvo los siguientes resultados promedio en diez experi
 | F1-Score  | 71.26 %   |
 | ROC-AUC   | 77.57 %   |
 
+
+## Integrantes
+
+| Métrica   | Resultado |
+|-----------|-----------|
+| Luis Fernando Velazquez Moreno 
+  |2096588  |
+| Andres Castro Hernandez 
+ | 2069855   |
+| Adrian Alejandro Briseño Gonzalez 
+    | 2073871  |
+| Jesus Salvador Rodriguez Rodriguez 
+  | 2103869   |
+| Angel Joseph Meraz Hernandez 
+   | 2067151   |
+
